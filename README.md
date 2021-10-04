@@ -2,7 +2,7 @@
 
 ## `Your new favorite Digital Newspaper 📰classified section🗞️`
 
-![](classified-demo.gif)
+![](classified_demo.gif)
 Welcome to the Pets Classified... come indulge your imagination with the prospects of faux adoption.
 All listings are pure works of fiction but may none the less bring you joy!
 
