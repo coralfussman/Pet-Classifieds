@@ -16,7 +16,7 @@ followed by
 
 To start the database (better if done in seprate terminal)
 
-### `json-server --watch db.json --port 3004`
+#### `json-server --watch db.json --port 3004`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
