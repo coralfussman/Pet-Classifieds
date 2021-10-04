@@ -11,7 +11,6 @@ interface IProps {
 }
 const Listings = ({ pets }: IProps) => {
   const petCard = pets.map((pet: any, i: number) => {
-    console.log(pets);
     return <Listing key={i} pets={pet} />;
   });
   return (

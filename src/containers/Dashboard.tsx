@@ -28,7 +28,6 @@ const Dashboard: FC = () => {
       .then((r) => r.json())
       .then((data) => {
         setPets(data);
-        //  console.log("sleep fetch", sleep)
       })
       .catch((err) => console.log(err));
   }, []);

@@ -1,16 +1,18 @@
-# Coral's Classified Ads
+# Coral's Pets Classified Ads
+
+## `Your new favorite Digital Newspaper 📰 classified section 🗞️`
 
 Welcome to the Pets Classified... come indulge your imagination with the prospects of faux adoption
 All listings are pure works of fiction but may none the less bring you joy.
 
-## IMPORTANT ** How To Start Up and Run **
+### IMPORTANT ** How To Start Up and Run **
 
 to begin please clone down the repo and do:  
  `npm i`
 followed by
 `npm start`
 
-******\*\*\*\******* YOU MUST ALSO START UP THE DATABASE ******\*\*\*\*******
+**\*\***\*\*\*\***\*\*** YOU MUST ALSO START UP THE DATABASE **\*\***\*\*\*\***\*\***
 
 To start the database (better if done in seprate terminal)
 

@@ -19,7 +19,6 @@ const Modal = ({ show, setShow, addPetEntry, setPets }: Props) => {
   };
   const [data, handleChange] = useForm(initState);
 
-  // console.log(values)
   const { breed, name, animal, age, description } = data;
   const handleClose = () => {
     setShow(false);
@@ -28,10 +27,9 @@ const Modal = ({ show, setShow, addPetEntry, setPets }: Props) => {
   const handleSubmit = (e: SyntheticEvent) => {
     e.persist();
     e.preventDefault();
-    console.log(data);
 
     setShow(false);
-    setPets(initState);
+    //setPets(initState);
 
     fetch(`http://localhost:3004/pets`, {
       method: 'POST',
