@@ -1,0 +1,100 @@
+{
+  "pets": [
+    {
+      "breed": "poodle",
+      "name": "coco",
+      "animal": "dog",
+      "age": 3,
+      "description": "nicest poodle around, couldn't ask for a better kid friendly companion",
+      "id": 1
+    },
+    {
+      "breed": "garden snake",
+      "name": "Malfoy",
+      "animal": "snake",
+      "age": 1,
+      "description": "Like looking into the eyes of you know who... must find attentive owner",
+      "id": 2
+    },
+    {
+      "breed": "garden snake",
+      "name": "Goyle",
+      "animal": "snake",
+      "age": 3,
+      "description": "This snake is a bit slow and daft. It won't run away or bite you, but don't expect to teach it any tricks",
+      "id": 3
+    },
+    {
+      "breed": "tabby",
+      "name": "Hermoine",
+      "animal": "cat",
+      "age": 3,
+      "description": "The most clever cat around. Surprisingly loyal, cute cuddly but not so easily amused",
+      "id": 4
+    },
+    {
+      "breed": "Speckled feather",
+      "name": "Cluck",
+      "animal": "Rooster",
+      "age": 0,
+      "description": "Great alarm clock if you're an early bird. Not a morning person? you may want to reconsider...",
+      "id": 5
+    },
+    {
+      "breed": "canadian",
+      "name": "Bruce",
+      "animal": "Moose",
+      "age": "1",
+      "description": "Only a year old but larger than a horse. You can't miss em. Looks like a reindeer but bigger. Cold weather only",
+      "id": 6
+    },
+    {
+      "breed": "teddy",
+      "name": "Roosvelt",
+      "animal": "bear",
+      "age": "5",
+      "description": "Snuggly companion doesn't quite age like your typical pet.",
+      "id": 7
+    },
+    {
+      "breed": "Neville",
+      "name": "Trevor",
+      "animal": "frog",
+      "age": "7",
+      "description": "Often disappearing but healthy as a bull-frog. This little amphibian will out live most",
+      "id": 8
+    },
+    {
+      "breed": "morph",
+      "name": "Wormtail",
+      "animal": "rat",
+      "age": "60",
+      "description": "Sneaky rodent, careful he bites!",
+      "id": 9
+    },
+    {
+      "breed": "scary",
+      "name": "Larry",
+      "animal": "shark",
+      "age": "10",
+      "description": "Not for everyone... have a pool?",
+      "id": 10
+    },
+    {
+      "breed": "brown",
+      "name": "Goldie Locks",
+      "animal": "bear",
+      "age": "1",
+      "description": "This neighborhood bear was found wandering around Yosemite",
+      "id": 11
+    },
+    {
+      "breed": "poodle",
+      "name": "easy",
+      "animal": "dog",
+      "age": "1",
+      "description": "something for testing",
+      "id": 12
+    }
+  ]
+}

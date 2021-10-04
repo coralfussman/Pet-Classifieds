@@ -1,0 +1,48 @@
+@import '_header';
+@import '_modal';
+@import '_variables';
+@import '_listings';
+
+body {
+  margin: 0;
+  font-family: 'Libre Baskerville', serif;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+  margin: 4%;
+}
+#p-sign {
+  font-size: 12px;
+}
+.submitButton {
+  background: $black;
+  border-radius: 10px 10px 10px 10px;
+  border-width: 0ch;
+  border-color: rgb(180, 180, 180);
+  font-family: Libre Baskerville;
+  font-size: 16px;
+  color: $white;
+  margin: 2%;
+  padding: 1.5%;
+
+  box-shadow: -2px -6px 15px #fff, 2px 6px 15px rgba(0, 0, 0, 0.15);
+}
+.submitButton:hover {
+  transform: scale(1.07);
+  transition: all 0.3s;
+  box-shadow: -2px -6px 15px #fff, 2px 6px 15px rgba(0, 0, 0, 0.15);
+}
+.dropShadow {
+  padding-top: 0.3%;
+  height: 5vh;
+  width: 80vw;
+  box-shadow: -2px -6px 15px #fff, 2px 6px 15px rgba(0, 0, 0, 0.15);
+  color: $dkGrey;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
