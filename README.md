@@ -1,8 +1,8 @@
 # Coral's Pets Classified Ads
 
-## `Your new favorite Digital Newspaper 📰 classified section 🗞️`
+## `Your new favorite Digital Newspaper 📰classified section🗞️`
 
-Welcome to the Pets Classified... come indulge your imagination with the prospects of faux adoption
+Welcome to the Pets Classified... come indulge your imagination with the prospects of faux adoption.
 All listings are pure works of fiction but may none the less bring you joy.
 
 ### IMPORTANT ** How To Start Up and Run **
